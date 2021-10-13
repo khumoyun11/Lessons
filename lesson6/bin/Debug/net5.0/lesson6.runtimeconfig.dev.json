@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/xumoyun/.dotnet/store/|arch|/|tfm|",
+      "/home/xumoyun/.nuget/packages"
+    ]
+  }
+}

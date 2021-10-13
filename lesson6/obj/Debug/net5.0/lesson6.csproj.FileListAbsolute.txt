@@ -1,0 +1,16 @@
+/home/xumoyun/Developer/Bootcamp/lesson6/bin/Debug/net5.0/lesson6
+/home/xumoyun/Developer/Bootcamp/lesson6/bin/Debug/net5.0/lesson6.deps.json
+/home/xumoyun/Developer/Bootcamp/lesson6/bin/Debug/net5.0/lesson6.runtimeconfig.json
+/home/xumoyun/Developer/Bootcamp/lesson6/bin/Debug/net5.0/lesson6.runtimeconfig.dev.json
+/home/xumoyun/Developer/Bootcamp/lesson6/bin/Debug/net5.0/lesson6.dll
+/home/xumoyun/Developer/Bootcamp/lesson6/bin/Debug/net5.0/ref/lesson6.dll
+/home/xumoyun/Developer/Bootcamp/lesson6/bin/Debug/net5.0/lesson6.pdb
+/home/xumoyun/Developer/Bootcamp/lesson6/obj/Debug/net5.0/lesson6.csproj.AssemblyReference.cache
+/home/xumoyun/Developer/Bootcamp/lesson6/obj/Debug/net5.0/lesson6.GeneratedMSBuildEditorConfig.editorconfig
+/home/xumoyun/Developer/Bootcamp/lesson6/obj/Debug/net5.0/lesson6.AssemblyInfoInputs.cache
+/home/xumoyun/Developer/Bootcamp/lesson6/obj/Debug/net5.0/lesson6.AssemblyInfo.cs
+/home/xumoyun/Developer/Bootcamp/lesson6/obj/Debug/net5.0/lesson6.csproj.CoreCompileInputs.cache
+/home/xumoyun/Developer/Bootcamp/lesson6/obj/Debug/net5.0/lesson6.dll
+/home/xumoyun/Developer/Bootcamp/lesson6/obj/Debug/net5.0/ref/lesson6.dll
+/home/xumoyun/Developer/Bootcamp/lesson6/obj/Debug/net5.0/lesson6.pdb
+/home/xumoyun/Developer/Bootcamp/lesson6/obj/Debug/net5.0/lesson6.genruntimeconfig.cache
