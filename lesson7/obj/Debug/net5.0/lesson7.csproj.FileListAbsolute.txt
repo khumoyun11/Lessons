@@ -1,0 +1,5 @@
+/home/xumoyun/Developer/Bootcamp/lesson7/obj/Debug/net5.0/lesson7.csproj.AssemblyReference.cache
+/home/xumoyun/Developer/Bootcamp/lesson7/obj/Debug/net5.0/lesson7.GeneratedMSBuildEditorConfig.editorconfig
+/home/xumoyun/Developer/Bootcamp/lesson7/obj/Debug/net5.0/lesson7.AssemblyInfoInputs.cache
+/home/xumoyun/Developer/Bootcamp/lesson7/obj/Debug/net5.0/lesson7.AssemblyInfo.cs
+/home/xumoyun/Developer/Bootcamp/lesson7/obj/Debug/net5.0/lesson7.csproj.CoreCompileInputs.cache
