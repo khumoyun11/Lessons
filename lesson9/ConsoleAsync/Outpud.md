@@ -1,0 +1,8 @@
+- Good Morning
+- Frying Eggs
+- Making Tea
+- Making Table
+- Table is Ready
+- Tea is Ready
+- Eggs are Ready
+- Bon appetito!
