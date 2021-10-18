@@ -6,7 +6,9 @@ namespace lesson10
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var node = new Node<string>("5");
+            var node2 = new Node<int>(5);
+            node2.Data = 4;
         }
     }
 }
