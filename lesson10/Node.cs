@@ -7,6 +7,5 @@ namespace lesson10
         {
             Data = data;
         }
-        
     }
 }
